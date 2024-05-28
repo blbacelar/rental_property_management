@@ -1,0 +1,7 @@
+Flask
+SQLAlchemy
+pandas
+Flask-JWT-Extended
+passlib
+boto3
+python-dotenv
